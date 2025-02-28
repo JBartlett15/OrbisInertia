@@ -6,10 +6,19 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/Git/Jobo/OrbisInertia/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"D:/Git/Jobo/OrbisInertia/Content/ThirdPerson/Maps/World.umap",
+				"D:/Git/Jobo/OrbisInertia/Content/__ExternalActors__/ThirdPerson/Maps/Persistent/7/3A/W9KMC1KUUS73QYQTZIVYX4.uasset",
+				"D:/Git/Jobo/OrbisInertia/Content/__ExternalActors__/ThirdPerson/Maps/Persistent/7/JW/NNZYLS0OPHD0GE57KQG0BP.uasset",
+				"D:/Git/Jobo/OrbisInertia/Content/__ExternalActors__/ThirdPerson/Maps/Persistent/4/3C/0DQDWQK4I27761PNY6424H.uasset",
+				"D:/Git/Jobo/OrbisInertia/Content/__ExternalActors__/ThirdPerson/Maps/Persistent/3/1E/DJQ5LOBJCVRUQHFPNK14LN.uasset",
+				"D:/Git/Jobo/OrbisInertia/Content/__ExternalActors__/ThirdPerson/Maps/Persistent/7/24/GVJ5JW7FULV90ASBYWO3HU.uasset",
+				"D:/Git/Jobo/OrbisInertia/Content/__ExternalActors__/ThirdPerson/Maps/Persistent/8/7T/B1W0547PTAI873V06LG6WN.uasset",
+				"D:/Git/Jobo/OrbisInertia/Content/__ExternalActors__/ThirdPerson/Maps/Persistent/5/IG/KG078UGLU3HWSB4VMC3ABA.uasset",
+				"D:/Git/Jobo/OrbisInertia/Content/ThirdPerson/Maps/Persistent.umap",
+				"D:/Git/Jobo/OrbisInertia/Content/ThirdPerson/Maps/Sounds.umap",
 				"D:/Git/Jobo/OrbisInertia/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/FR/LBG6LPN5JCL3FMVSI2CK6R.uasset",
 				"D:/Git/Jobo/OrbisInertia/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/43/HYQWORMY4JDQ5X3OKZXFLC.uasset",
 				"D:/Git/Jobo/OrbisInertia/Content/ThirdPerson/Maps/NewMap.umap",
-				"D:/Git/Jobo/OrbisInertia/Content/ThirdPerson/Maps/World.umap",
 				"D:/Git/Jobo/OrbisInertia/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/TK/PIQ0B2FNWR15P52TECP27A.uasset",
 				"D:/Git/Jobo/OrbisInertia/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/4/VW/TY7TSUER9KKGHX2BMKSL0L.uasset",
 				"D:/Git/Jobo/OrbisInertia/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/E/GP/22PD314FCWY4ZK61DE3XZC.uasset",
@@ -53,15 +62,7 @@
 				"D:/Git/Jobo/OrbisInertia/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416.uasset",
 				"D:/Git/Jobo/OrbisInertia/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/LN/30UBDLYFFA5ZR7U4W4L4GG.uasset",
 				"D:/Git/Jobo/OrbisInertia/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/EY/87SHEJN5UBEAN2K5OV1G6R.uasset",
-				"D:/Git/Jobo/OrbisInertia/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER.uasset",
-				"D:/Git/Jobo/OrbisInertia/Content/__ExternalActors__/ThirdPerson/Maps/Persistent/7/3A/W9KMC1KUUS73QYQTZIVYX4.uasset",
-				"D:/Git/Jobo/OrbisInertia/Content/__ExternalActors__/ThirdPerson/Maps/Persistent/7/JW/NNZYLS0OPHD0GE57KQG0BP.uasset",
-				"D:/Git/Jobo/OrbisInertia/Content/__ExternalActors__/ThirdPerson/Maps/Persistent/4/3C/0DQDWQK4I27761PNY6424H.uasset",
-				"D:/Git/Jobo/OrbisInertia/Content/__ExternalActors__/ThirdPerson/Maps/Persistent/3/1E/DJQ5LOBJCVRUQHFPNK14LN.uasset",
-				"D:/Git/Jobo/OrbisInertia/Content/__ExternalActors__/ThirdPerson/Maps/Persistent/7/24/GVJ5JW7FULV90ASBYWO3HU.uasset",
-				"D:/Git/Jobo/OrbisInertia/Content/__ExternalActors__/ThirdPerson/Maps/Persistent/8/7T/B1W0547PTAI873V06LG6WN.uasset",
-				"D:/Git/Jobo/OrbisInertia/Content/__ExternalActors__/ThirdPerson/Maps/Persistent/5/IG/KG078UGLU3HWSB4VMC3ABA.uasset",
-				"D:/Git/Jobo/OrbisInertia/Content/ThirdPerson/Maps/Persistent.umap"
+				"D:/Git/Jobo/OrbisInertia/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER.uasset"
 			]
 		}
 	]
